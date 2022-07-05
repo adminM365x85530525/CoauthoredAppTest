@@ -4,19 +4,19 @@
     "App": 1,
     "galleryTemplate1": 8,
     "Image1": 9,
-    "NextArrow1": 12,
+    "NextArrow1": 11,
     "RectQuickActionBar1": 5,
     "Screen1": 3,
     "Screen2": 4,
     "Separator1": 13,
-    "Subtitle1": 11,
+    "Subtitle1": 12,
     "TemplateGalleryList1": 7,
     "Title1": 6,
     "Title2": 10
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/05/2022 21:04:12",
+  "HeaderLastSavedDateTimeUTC": "07/05/2022 21:06:31",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -57,8 +57,17 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0221064,
-    "ControlCount": {},
+    "AnalysisLoadTime": 0.1590562,
+    "ControlCount": {
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "icon": 1,
+      "image": 1,
+      "label": 3,
+      "rectangle": 2,
+      "screen": 2
+    },
+    "DeserializationLoadTime": 0.642093,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
